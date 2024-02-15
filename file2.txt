@@ -4,4 +4,8 @@ Updates done in this experimental branch is  also ALARMING!!!
 
 UPDATED.......
 
+<<<<<<< HEAD
 File2 Experimental updates!!!
+=======
+Recent changes in experimental1
+>>>>>>> experimental2
