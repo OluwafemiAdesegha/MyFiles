@@ -14,4 +14,9 @@ RECENT UPDATES IN Experimental2
 RECENT UPDATES IN Experimental2
 
 Further updates in Experimental 2...
+<<<<<<< HEAD
+>>>>>>> experimental2
+=======
+
+Made another huge update on experimental2...
 >>>>>>> experimental2
