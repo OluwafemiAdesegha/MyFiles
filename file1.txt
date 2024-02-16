@@ -5,7 +5,13 @@ Updates done in this experimental branch is wow!!!!
 LATEST UPDATE......
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 EXPerimental 2 update!!!
 =======
 RECENT UPDATES IN Experimental2
+>>>>>>> experimental2
+=======
+RECENT UPDATES IN Experimental2
+
+Further updates in Experimental 2...
 >>>>>>> experimental2
